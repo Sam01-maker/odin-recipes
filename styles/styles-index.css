@@ -5,7 +5,7 @@
 }
 
 body{
-    max-width: 800px;
+    max-width: 1200px;
     height: 100vh;
     margin:0 auto;
     background-color: bisque;
@@ -28,7 +28,7 @@ header{
 }
 
 main{
-    background-color: azure;
+    background-color: rgb(166, 208, 240);
     padding: 3rem;
     height: 600px;
 }
@@ -48,11 +48,11 @@ li{
 
 a{
     text-decoration: none;
-    background-color: bisque;
+    background-color: rgb(255, 255, 255);
     padding: 1rem;
     color: black;
     font-weight: bold;
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     display: inline-block;
     width: 500px;
     text-align: center;
