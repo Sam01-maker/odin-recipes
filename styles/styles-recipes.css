@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    max-width: 764;
+    height: 100vh;
+    font-size: 14px;
+    background-color: bisque;
+}
+
+header{
+    background-color: black;
+    color: white;
+    margin: 1rem auto;
+    text-align:center ;
+    font-size: 1.2rem;
+    padding: 0.8rem;
+}
+
+figure{
+    display: flex;
+    justify-content: center;
+
+}
+
+img{
+    height: auto;
+    width: 250px;
+    border-radius: 5px;
+    box-shadow: 2px 1px 2px white;
+    
+}
